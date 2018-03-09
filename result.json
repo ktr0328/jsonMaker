@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "GQnNdNOS",
+      "age": 40,
+      "agree": false
+    },
+    {
+      "id": 1,
+      "name": "glbMBgJn",
+      "age": 79,
+      "agree": true
+    },
+    {
+      "id": 2,
+      "name": "grkOxqkW",
+      "age": 43,
+      "agree": false
+    },
+    {
+      "id": 3,
+      "name": "CpCRtlyK",
+      "age": 5,
+      "agree": true
+    },
+    {
+      "id": 4,
+      "name": "oknmLqal",
+      "age": 14,
+      "agree": false
+    }
+  ],
+  "class": [
+    {
+      "id": 0,
+      "name": "CJhlTLIc"
+    },
+    {
+      "id": 1,
+      "name": "YGeWBNvQ"
+    },
+    {
+      "id": 2,
+      "name": "YmTRXtEM"
+    }
+  ]
+}
